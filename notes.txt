@@ -1,0 +1,14 @@
+The smallest image size is: (178, 218)
+
+--------------------------------------
+Next step will be
+DA:
+1. **Image Size Distribution**: Analyze the range and distribution of image dimensions.
+2. **Color Channel Statistics**: Calculate mean, variance, and distribution of RGB values.
+3. **Image Sharpness/Blur Detection**: Measure sharpness to identify poor-quality images.
+4. **Pixel Intensity Histograms**: Analyze the distribution of pixel values for patterns.
+
+Prepare to model (Preprocessing):
+1. **Resizing**: Ensure all images have the same dimensions.
+2. **Normalization**: Scale pixel values to a specific range (e.g., 0-1 or -1 to 1).
+3. **Grayscale Conversion**: Reduce color channels, especially for simple tasks.

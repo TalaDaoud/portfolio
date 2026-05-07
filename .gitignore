@@ -1,0 +1,9 @@
+env/
+data/
+model/
+real/
+Fake/
+train/
+test/
+.idea/
+__pycache__/
